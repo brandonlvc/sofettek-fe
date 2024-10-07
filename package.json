@@ -2,7 +2,7 @@
   "name": "softtek-fe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brandonlvc.github.io/sofettek-fe/",
+  "homepage": "https://brandonlvc.github.io/sofettek-fe/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
