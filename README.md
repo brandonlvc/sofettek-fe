@@ -12,7 +12,7 @@ Desarrollo de maquetacion de figma y consumo de api rest.
 
 ## Link de la aplicacion.
 
-
+https://brandonlvc.github.io/sofettek-fe/
 
 #### Credenciales:
 
