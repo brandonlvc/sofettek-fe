@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sofettek-fe/static/css/main.32e78d42.css",
-    "main.js": "/sofettek-fe/static/js/main.abc9136a.js",
-    "static/media/family.png": "/sofettek-fe/static/media/family.2dc7f6f02fea364e3520.png",
-    "static/media/back-button.svg": "/sofettek-fe/static/media/back-button.f8286f694252ff5fc2435a3f09c5350c.svg",
-    "static/media/logo-card--home.svg": "/sofettek-fe/static/media/logo-card--home.17f935475c28c261b2b0433090421141.svg",
-    "static/media/logo-card--clinica.svg": "/sofettek-fe/static/media/logo-card--clinica.583374ae8cba40a9c1d3a51e32c65a9b.svg",
-    "static/media/logo-family-black.svg": "/sofettek-fe/static/media/logo-family-black.3a6d049f6bda6522aa7e180fae2e83fa.svg",
-    "static/media/radio-btn-checked.svg": "/sofettek-fe/static/media/radio-btn-checked.db7d241e245124d6a22894b372b6226a.svg",
-    "index.html": "/sofettek-fe/index.html",
-    "static/media/next-button-pag.svg": "/sofettek-fe/static/media/next-button-pag.be5b7d0960e2f621b12db6307ffe94a7.svg",
-    "static/media/back-button-mobile.svg": "/sofettek-fe/static/media/back-button-mobile.f70117bca75141c284fcbdb443f0bb2a.svg",
-    "static/media/last-button-pag.svg": "/sofettek-fe/static/media/last-button-pag.3ab08f3b35633ac9ee559d48d6633684.svg",
-    "static/media/radio-btn-uncheked.svg": "/sofettek-fe/static/media/radio-btn-uncheked.917de8358b7274d1deef83064413a981.svg",
-    "main.32e78d42.css.map": "/sofettek-fe/static/css/main.32e78d42.css.map",
-    "main.abc9136a.js.map": "/sofettek-fe/static/js/main.abc9136a.js.map"
+    "main.css": "/static/css/main.32e78d42.css",
+    "main.js": "/static/js/main.e088b7b2.js",
+    "static/media/family.png": "/static/media/family.2dc7f6f02fea364e3520.png",
+    "static/media/back-button.svg": "/static/media/back-button.f8286f694252ff5fc2435a3f09c5350c.svg",
+    "static/media/logo-card--home.svg": "/static/media/logo-card--home.17f935475c28c261b2b0433090421141.svg",
+    "static/media/logo-card--clinica.svg": "/static/media/logo-card--clinica.583374ae8cba40a9c1d3a51e32c65a9b.svg",
+    "static/media/logo-family-black.svg": "/static/media/logo-family-black.3a6d049f6bda6522aa7e180fae2e83fa.svg",
+    "static/media/radio-btn-checked.svg": "/static/media/radio-btn-checked.db7d241e245124d6a22894b372b6226a.svg",
+    "index.html": "/index.html",
+    "static/media/next-button-pag.svg": "/static/media/next-button-pag.be5b7d0960e2f621b12db6307ffe94a7.svg",
+    "static/media/back-button-mobile.svg": "/static/media/back-button-mobile.f70117bca75141c284fcbdb443f0bb2a.svg",
+    "static/media/last-button-pag.svg": "/static/media/last-button-pag.3ab08f3b35633ac9ee559d48d6633684.svg",
+    "static/media/radio-btn-uncheked.svg": "/static/media/radio-btn-uncheked.917de8358b7274d1deef83064413a981.svg",
+    "main.32e78d42.css.map": "/static/css/main.32e78d42.css.map",
+    "main.e088b7b2.js.map": "/static/js/main.e088b7b2.js.map"
   },
   "entrypoints": [
     "static/css/main.32e78d42.css",
-    "static/js/main.abc9136a.js"
+    "static/js/main.e088b7b2.js"
   ]
 }
