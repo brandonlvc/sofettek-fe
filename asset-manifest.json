@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sofettek-fe/static/css/main.32e78d42.css",
-    "main.js": "/sofettek-fe/static/js/main.e8c62117.js",
+    "main.js": "/sofettek-fe/static/js/main.74087356.js",
     "static/media/family.png": "/sofettek-fe/static/media/family.2dc7f6f02fea364e3520.png",
     "static/media/back-button.svg": "/sofettek-fe/static/media/back-button.f8286f694252ff5fc2435a3f09c5350c.svg",
     "static/media/logo-card--home.svg": "/sofettek-fe/static/media/logo-card--home.17f935475c28c261b2b0433090421141.svg",
@@ -14,10 +14,10 @@
     "static/media/last-button-pag.svg": "/sofettek-fe/static/media/last-button-pag.3ab08f3b35633ac9ee559d48d6633684.svg",
     "static/media/radio-btn-uncheked.svg": "/sofettek-fe/static/media/radio-btn-uncheked.917de8358b7274d1deef83064413a981.svg",
     "main.32e78d42.css.map": "/sofettek-fe/static/css/main.32e78d42.css.map",
-    "main.e8c62117.js.map": "/sofettek-fe/static/js/main.e8c62117.js.map"
+    "main.74087356.js.map": "/sofettek-fe/static/js/main.74087356.js.map"
   },
   "entrypoints": [
     "static/css/main.32e78d42.css",
-    "static/js/main.e8c62117.js"
+    "static/js/main.74087356.js"
   ]
 }
